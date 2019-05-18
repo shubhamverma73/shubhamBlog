@@ -20,7 +20,7 @@ if(isset($_POST['final_submit']))
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Qualification</title>
+<title>Qualification Page</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
