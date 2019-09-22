@@ -1,4 +1,5 @@
 <?php
+//establish connection
 $connn = mysqli_connect("localhost","root","","login");
 $GLOBALS['connn'] = $connn;
 
